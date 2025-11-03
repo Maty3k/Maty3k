@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🚀 Welcome to My GitHub
 
 Welcome to my personal GitHub repository documenting my journey in tech.  
 Here, I share the projects and ideas that inspire me as I learn and grow my skills.  
